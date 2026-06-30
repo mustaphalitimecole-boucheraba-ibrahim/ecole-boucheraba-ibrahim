@@ -1,0 +1,8 @@
+body{font-family:Tahoma,Arial;direction:rtl;background:#f4f6fb;margin:0}
+.hero{background:#0b3d91;color:white;text-align:center;padding:40px}
+.motto{color:#ffd54f;font-size:22px}
+nav a{color:white;text-decoration:none;margin:12px;font-weight:bold}
+section{padding:30px}
+.cards{display:flex;flex-wrap:wrap;gap:15px;justify-content:center}
+.card{background:white;padding:20px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,.1);min-width:180px;text-align:center}
+footer{background:#0b3d91;color:white;text-align:center;padding:20px;margin-top:30px}
