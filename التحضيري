@@ -20,8 +20,12 @@
 <section>
 <h2>الأقسام الدراسية</h2>
 <div class="cards">
-<div class="card">التحضيري</div>
-  
+  <div class="card">
+    <div class="icon">👶</div>
+    <h3>التحضيري</h3>
+    <p>نتعلم باللعب ونكتشف العالم في بيئة آمنة وممتعة.</p>
+    <a href="#" class="btn">عرض المزيد</a>
+</div>
   
 
 
@@ -38,7 +42,19 @@
 
 
 <div class="card">السنة الأولى ابتدائي</div>
+  <div class="card">
+    <div class="icon">📘</div>
+    <h3>السنة الأولى ابتدائي</h3>
+    <p>بداية المسار التعليمي واكتساب المهارات الأساسية.</p>
+    <a href="#" class="btn">عرض المزيد</a>
+</div>
 <div class="card">السنة الثانية ابتدائي</div>
+ <div class="card">
+    <div class="icon">✏️</div>
+    <h3>السنة الثانية ابتدائي</h3>
+    <p>تطوير مهارات القراءة والكتابة والحساب.</p>
+    <a href="#" class="btn">عرض المزيد</a>
+</div> 
 <div class="card">السنة الثالثة ابتدائي</div>
 <div class="card">السنة الرابعة ابتدائي</div>
 <div class="card">السنة الخامسة ابتدائي</div>
